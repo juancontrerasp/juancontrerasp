@@ -86,7 +86,10 @@ Alongside development, I’m interested in:
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juancontrerasp&show_icons=true&theme=tokyonight)](https://github.com/juancontrerasp)
+## 📊 GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juancontrerasp&layout=compact&theme=tokyonight)](https://github.com/juancontrerasp)
-🔥 Optional (side-by-side layout)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juancontrerasp&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancontrerasp&layout=compact&theme=tokyonight" height="165" />
+</p>
+
