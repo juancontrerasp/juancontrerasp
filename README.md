@@ -83,3 +83,5 @@ Alongside development, I’m interested in:
 
 - GitHub: **juancontrerasp**
 - Open to collaboration and learning opportunities
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
